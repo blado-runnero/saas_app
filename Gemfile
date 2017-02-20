@@ -32,6 +32,9 @@ gem 'bcrypt', '3.1.7'
 # Use twitter bootstrap library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
+# Use Hirb gem for better console data presentation
+gem 'hirb', '0.7.3'
+
 # for adding icons
 gem 'font-awesome-sass','4.6.2'
 
