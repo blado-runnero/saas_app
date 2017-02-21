@@ -28,6 +28,8 @@ gem 'bcrypt', '3.1.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Use Devise for user authentication
+gem 'devise', '4.2.0'
 
 # Use twitter bootstrap library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
